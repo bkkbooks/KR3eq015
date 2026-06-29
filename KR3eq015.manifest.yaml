@@ -1,0 +1,323 @@
+canonical_identifier: bkk:krp/KR3eq015/v1
+canonical_location: https://kanripo.org/bkk/KR3eq015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 醫原
+  identifiers:
+    krp: KR3eq015
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq015_000.yaml, hash: 'sha256:cab5a905d92f059d01e1db6eb2b321af3510bf9061cf33e9fb8a899390f8dbc0'}
+  - {seq: 1, filename: KR3eq015_001.yaml, hash: 'sha256:f1077d096732439df1464ddd16216dd3233369dbe89ad3b746a13495b1706bcb'}
+  - {seq: 2, filename: KR3eq015_002.yaml, hash: 'sha256:fd25ef66f38f53095325f9c3f4ce3e80ca2e0a9a9005e01552e6fba9f9b1dfad'}
+  - {seq: 3, filename: KR3eq015_003.yaml, hash: 'sha256:f10eea8d1cdeb0ac36e57c0fa28c974fcc0be8f600aa147c8952b1d396787fb1'}
+  - {seq: 0, filename: KR3eq015_000.yaml, hash: 'sha256:e2052c3883d126c42022b99b019d50a625c7966fd1e12acea8fda2459fcdb029'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3eq015_001.markers.yaml, hash: 'sha256:ffc23a34c41d23f772234ee95cce35783cd374065dba89ea3937e5f157949c76'}
+  - {seq: 2, role: markers, filename: assets/KR3eq015_002.markers.yaml, hash: 'sha256:81e42664ae6a0d19e5b61c967c3279436ead73e399aed245e7d5dd82d3b477ea'}
+  - {seq: 3, role: markers, filename: assets/KR3eq015_003.markers.yaml, hash: 'sha256:59313ecde4a3e8716c594913a921b5cbd3f35bf631666de8803b8e04e533b686'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 520
+  label: 吳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d3.h1s1
+    span:
+    - front
+    - 520
+    - 974
+  label: 張序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d4.h1s1
+    span:
+    - front
+    - 974
+    - 1246
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d5.h1s1
+    span:
+    - front
+    - 1246
+    - 1680
+  label: 張序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 24255
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d2
+    span:
+    - body
+    - 2
+    - 2988
+  label: 人身一小天地論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d3
+    span:
+    - body
+    - 2988
+    - 4192
+  label: 陰陽互根論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d4
+    span:
+    - body
+    - 4192
+    - 5620
+  label: 五行生剋論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d5
+    span:
+    - body
+    - 5620
+    - 8346
+  label: 陰陽治法大要論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d6
+    span:
+    - body
+    - 8346
+    - 9100
+  label: 樞機論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d7
+    span:
+    - body
+    - 9100
+    - 9889
+  label: 衛氣行度一經星經天論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d8
+    span:
+    - body
+    - 9889
+    - 12712
+  label: 營氣行度一經水行地論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d9
+    span:
+    - body
+    - 12712
+    - 16575
+  label: 百病提綱論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq015_jc_001-d6d10
+    span:
+    - body
+    - 16575
+    - 24255
+  label: 望病須察神氣論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7.h1s1
+    span:
+    - body
+    - 0
+    - 24833
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7d2
+    span:
+    - body
+    - 2
+    - 738
+  label: 聞聲須察陰陽論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7d3
+    span:
+    - body
+    - 738
+    - 1013
+  label: 問證求病論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7d4
+    span:
+    - body
+    - 1013
+    - 9529
+  label: 切脈源流論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7d5
+    span:
+    - body
+    - 9529
+    - 14186
+  label: 內傷大要論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq015_jc_002-d7d6
+    span:
+    - body
+    - 14186
+    - 24833
+  label: 濕氣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8.h1s1
+    span:
+    - body
+    - 0
+    - 27341
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d2
+    span:
+    - body
+    - 2
+    - 5582
+  label: 燥氣論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d3
+    span:
+    - body
+    - 5582
+    - 16222
+  label: 論張仲景傷寒論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d4
+    span:
+    - body
+    - 16222
+    - 20680
+  label: 女科論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d5
+    span:
+    - body
+    - 20680
+    - 23986
+  label: 兒科論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d6
+    span:
+    - body
+    - 23986
+    - 26049
+  label: 用藥大要論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq015_jc_003-d8d7
+    span:
+    - body
+    - 26049
+    - 27341
+  label: 醫宜識字論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d9.h1s1
+    span:
+    - body
+    - 0
+    - 148
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq015_jc_000-d10.h1s1
+    span:
+    - body
+    - 148
+    - 290
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:0c870d63be384ac3f1f842965e8fe43c7010f94cd39dd183a99ecd006f996d10
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

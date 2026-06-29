@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3eq015/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋蕉影蔽窗荷香滿院呂君伯仁叩關而入袖書一卷曰此名石孝廉芾南先生之醫原而為吾師沈菊人先生所珍藏者也讀其自序知孝廉胸儲經濟學有淵源上窺軒歧盧扁之奧下秉高曾祖父之傳負洞垣一方之識笑刻舟求劍之愚爰乃萃其所蘊泐成是書持論明通存心忠厚洵屬醫林之寶筏壽世之慈航也重為參校以公同人光緒十七年季夏後學華亭張聲馳謹跋跋奎不敏業醫三十年讀書不多而又僻處於鄉無所聞見未嘗不慚且懼也日遇朱雨笙茂才讀石孝廉醫原二十篇綜羲文之要旨發靈素之精思醫者知之即非醫者亦一見而瞭然焉所謂白香山詩老嫗可解有如是耶家置一編資以參會裨益非淺鮮也因慫恿付梓以公諸世而綴數語於篇末云咸豐十一年歲次辛酉孟夏月鄉愚弟周秉奎頤貞頓首拜跋
+  hash: sha256:df38a349bfc99412718336d39a32e3fe654dd8b4a246066a0204c8941b7b4710
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eq015_jc_000-d9.h1s1}
+  - {type: 'tls:head', offset: 148, content: '', id: KR3eq015_jc_000-d10.h1s1}
+metadata:
+  title: 醫原
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq015.xml
+hash: sha256:e2052c3883d126c42022b99b019d50a625c7966fd1e12acea8fda2459fcdb029
